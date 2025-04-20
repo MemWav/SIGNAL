@@ -1,0 +1,10 @@
+# Micromamba environment file
+# https://marketplace.visualstudio.com/items?itemName=corker.vscode-micromamba
+
+name: LaT
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
