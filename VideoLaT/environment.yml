@@ -1,0 +1,10 @@
+# Micromamba environment file
+# https://marketplace.visualstudio.com/items?itemName=corker.vscode-micromamba
+
+name: VideoLaT
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.10
