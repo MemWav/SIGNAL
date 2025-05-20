@@ -2,4 +2,4 @@
 
 ---
 # Versions
-* python: 3.10.17
+* python: 3.10.12
